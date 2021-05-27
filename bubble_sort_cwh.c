@@ -1,4 +1,4 @@
-// Bubble sort using c
+// Bubble sort using c 
 
 #include <stdio.h>
 int i, j, swap;
